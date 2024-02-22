@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level10" type="LSString" value="1d10"/>
+                    <attribute id="Level5" type="LSString" value="1d8"/>
+                    <attribute id="Name" type="FixedString" value="SkaldInspiration"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="92cd50b6-eb1b-4824-8adb-853e90c34c90"/>
+                    <attribute id="UUID" type="guid" value="8ec54331-c1b9-4dd3-a10b-b281d28ab7a6"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level2" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value=""/>
+                    <attribute id="Level10" type="LSString" value="4d8"/>
+                    <attribute id="Level11" type="LSString" value="4d8"/>
+                    <attribute id="Level12" type="LSString" value="4d8"/>
+                    <attribute id="Level3" type="LSString" value="1d8"/>
+                    <attribute id="Level4" type="LSString" value="2d8"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level7" type="LSString" value="3d8"/>
+                    <attribute id="Level8" type="LSString" value="3d8"/>
+                    <attribute id="Level9" type="LSString" value="3d8"/>
+                    <attribute id="Name" type="FixedString" value="SkaldForce"/>
+                    <attribute id="UUID" type="guid" value="0abfc197-6dd6-4bc9-b04d-85161fa8b949"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

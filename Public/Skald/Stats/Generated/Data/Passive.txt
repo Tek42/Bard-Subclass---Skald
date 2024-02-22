@@ -1,0 +1,23 @@
+new entry "SKALD_SONG_OF_BATTLE_FOCUS"
+    type "PassiveData"
+        data "DisplayName" "h3d6cd40fg1e66g4076g951fga7db2cf3c24e;1"
+        data "Description" "hd00af6b5g3aafg46ebg873dgbedd048dc467;1"
+        data "Icon" "PassiveFeature_FocusedConjuration"
+        data "Properties" "Highlighted"
+        data "Boosts" "Advantage(Concentration)"
+
+new entry "MAG_SkaldBind_Passive"
+	type "PassiveData"
+		data "DisplayName" "h6d6b4694gaef6g4a62g8750g4e3d203291d3;1"
+        data "Description" "h4860c228gc2aag49bbg94edgf21a05736366;1"
+
+new entry "MAG_SkaldBondRanged_Passive"
+	type "PassiveData"
+		data "DisplayName" "h848ed95ag2386g4ddag9993g91d28040835b;1"
+        data "Description" "h7e897d6cg4be3g4927ga365g16506074f676;1"
+
+new entry "MAG_Skald_MeleeCaster_Passive"
+type "PassiveData"
+data "DisplayName" "hfbb9c9b0g642ag4345g93ceg46fb8d9f9a92;1"
+data "Description" "h7e897d6cg4be3g4927ga365g16506074f676;1"
+        

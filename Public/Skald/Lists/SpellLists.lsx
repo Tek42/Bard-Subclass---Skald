@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 3" />
+			<attribute id="Spells" type="LSString" value="Target_SkaldicInspiration;Shout_Performance_Level_3;SKALD_MELEE_COMBO_1;SKALD_MELEE_COMBO_2;SKALD_MELEE_FINISHER;SKALD_RANGED_COMBO_1;SKALD_RANGED_COMBO_2;SKALD_RANGED_FINISHER" />
+			<attribute id="UUID" type="guid" value="0aeaf8d8-4c9b-4a5f-8372-7baa4e9f161a" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 5" />
+			<attribute id="Spells" type="LSString" value="Shout_SummonSkaldDrum" />
+			<attribute id="UUID" type="guid" value="9dd69111-df38-4c81-95fb-209c2d62870c" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 6" />
+			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_6;SKALD_SPELL_COMBO_1;SKALD_SPELL_COMBO_2;SKALD_SPELL_FINISHER_DMG;SKALD_SPELL_FINISHER_HEAL;SKALD_SPELL_FINISHER_MASSHEAL" />
+			<attribute id="UUID" type="guid" value="6ffd26bb-a764-4409-ad47-b158115ff7f5" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 7" />
+			<attribute id="Spells" type="LSString" value="Target_Skald_Rune;Shout_Skald_Rune_Rage" />
+			<attribute id="UUID" type="guid" value="3d2fd541-b4c4-4d9b-8ed9-a0b1cca20c72" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 8" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="5a725061-e245-4d82-8cf8-9f0db5cc5393" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 9" />
+			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_9" />
+			<attribute id="UUID" type="guid" value="930697f5-19b5-4698-90e8-a86876d6cbfd" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 10" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="51d92c4d-d12b-49a2-a8ca-ace304821a91" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 11" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="80e7dbff-4235-4e91-914a-69fc2ef83059" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 12" />
+			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_12" />
+			<attribute id="UUID" type="guid" value="102da695-749e-4b44-9cbb-2d6ecbde9c37" />
+		</node>
+      </children>
+    </node>
+  </region>
+</save>

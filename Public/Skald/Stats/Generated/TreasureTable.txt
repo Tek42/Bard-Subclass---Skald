@@ -1,0 +1,150 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldDrum_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe1h_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe1h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe1h_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe1h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Uncommon",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Uncommon",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Expeditioner_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Uncommon",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_VeryRare",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_SkaldAxe1h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxeVersa__Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_SkaldAxe2h_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Longbow_Legendary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Skald_Shortbow_Legendary",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtabl1 "1,1"
+object category "I_SkaldDrum_Legendary",1,0,0,0,0,0,0,0

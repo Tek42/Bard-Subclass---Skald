@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+            <attribute id="DisplayName" type="TranslatedString" handle="hc445d38dge707g452ag86f5g34a1f0a32193" version="1" />
+            <attribute id="Description" type="TranslatedString" handle="hd0187b8cg9433g452fg97d4g0877db9b2eb2" version="1" />
+            <attribute id="Name" type="FixedString" value="SkaldInspiration" />
+            <attribute id="ReplenishType" type="FixedString" value="Rest" />
+            <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+            <attribute id="UUID" type="guid" value="9223705f-7d9b-4f75-a2c4-dc44c9507efc" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

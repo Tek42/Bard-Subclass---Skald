@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h85bceba6g5bf6g4a08g87e3g648b53cf04eb" version="1">Skald</content>
+	<content contentuid="had501ceegeff8g4a17gbc4fg2611d567f384" version="1">The Skald focuses heavily on performing "Songs of Battle" combos. This form of Bardic combat combines song, spell, blade, and arrow into multi-step combinations that culminate in a finishing move.</content>
+	<content contentuid="hc445d38dge707g452ag86f5g34a1f0a32193" version="1">Skald Inspiration</content>
+	<content contentuid="hd0187b8cg9433g452fg97d4g0877db9b2eb2" version="1">The number of times you can use some Skald abilities before resting.</content>
+	<content contentuid="h962903cag886eg42daga0a4ga5069717482a" version="1">Deals an additional [1] per level.</content>
+	<content contentuid="hb7808ff1gd312g4aacg8eacg3283ce4455d1" version="1">Heals an additional [1] per level.</content>
+	<content contentuid="h287ae0bfgdb47g4de5gb373g99c0310db39b" version="1">Skald's Battle Drum</content>
+	<content contentuid="h780f2487g4495g4e22gb77bgfd6db660b752" version="1">This is your battle drum, there are many like it but this one is yours.</content>
+	<content contentuid="hab29495bg07f8g4271ga04fge895654ea05a" version="1">Skald's Battle Drum</content>
+	<content contentuid="h75f9ad38ga4b9g44edg8ba2g8fc241ab7b89" version="1">Gain a 1d6 bonus to one damage or healing roll when you cast a spell that deals damage or restores hit points while using your battle drum.</content>
+	<content contentuid="h3d6cd40fg1e66g4076g951fga7db2cf3c24e" version="1">Skald's Battle Focus</content>
+	<content contentuid="hd00af6b5g3aafg46ebg873dgbedd048dc467" version="1">Your experience in battle has made you better able to continue your songs under most circumstances. You get &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on concentration saving throws.</content>
+	<content contentuid="h6ff90ddcg2eb2g4a65gb313g51bc1ed4158e" version="1">Runes To My Memory</content>
+	<content contentuid="h27082d40gb592g4700gb7e4gc92bf90e7768" version="1">Raise a stone for all to see. Runes carved to my memory.&lt;br&gt;&lt;br&gt;Used to apply runes to your companions which when activated with "Warhorn: A Fury Divine" grant enhanced abilities befitting their role.</content>
+	<content contentuid="h2c89157fg605dg4348g9146g0b5ad0bae7b3" version="1">Sverd Rune</content>
+	<content contentuid="h78482cd2g029eg495ag89ecg69a0c74279c4" version="1">Magi Rune</content>
+	<content contentuid="hd873374cg6532g4b8dg825fg1443c63192b5" version="1">Sverd Rune Active</content>
+	<content contentuid="h75a2379aga19dg4850g8402gf729fbe5ba93" version="1">Magi Rune Active</content>
+	<content contentuid="hce5b53b0g43f8g4ab5ga8e6g2e7ed8cd4cb1" version="1">Those with the activated Magi Rune gain a +2 bonus to spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and spell &lt;LSTag Tooltip="DifficultyClass"&gt;Difficulty Class&lt;/LSTag&gt; for five turns.</content>
+	<content contentuid="habff20a2gc151g46c6gbca7g641c9f8bddcd" version="1">Those with the activated Svard Rune gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to physical damage, and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Those with the Caster Rune gain a bonus to their spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and spell &lt;LSTag Tooltip="DifficultyClass"&gt;Difficulty Class&lt;/LSTag&gt; for five turns.</content>
+	<content contentuid="hf063f840g829fg46b9g8ec7gd6194c894ccc" version="1">Skald's Hand Axe</content>
+	<content contentuid="h276bb9aeg1798g47ceg87c6gfde82c78aa0f" version="1">One of the Skald's weapons of choice.</content>
+	<content contentuid="h9c3bd775g1cdbg4914g9772g0e8dd8eab392" version="1">Skald's Battleaxe</content>
+	<content contentuid="h0cecb1efga72eg4e2egbf17g4002df0d1d4a" version="1">One of the Skald's weapons of choice.</content>
+	<content contentuid="ha92dacfegbbaeg4e7dg9e67gca01a5f83b8e" version="1">Skald's Greataxe</content>
+	<content contentuid="hd5110cc6g5a80g4a2eg91aeg8e74cc242276" version="1">One of the Skald's weapons of choice.</content>
+	<content contentuid="h6d6b4694gaef6g4a62g8750g4e3d203291d3" version="1">Weapon Bond</content>
+	<content contentuid="h4860c228gc2aag49bbg94edgf21a05736366" version="1">This weapon cannot be disarmed and returns to your hand when thrown.</content>
+	<content contentuid="h848ed95ag2386g4ddag9993g91d28040835b" version="1">Skald's Arrow</content>
+	<content contentuid="hfbb9c9b0g642ag4345g93ceg46fb8d9f9a92" version="1">Skald's Edge</content>
+	<content contentuid="h7e897d6cg4be3g4927ga365g16506074f676" version="1">When you attack with this Weapon, you can use your Charisma modifier, instead of Strength or Dexterity, for the &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls.</content>
+	<content contentuid="h76ce2036g7cd6g4cb8g8de6g43f4900f4b2c" version="1">Skald's Longbow</content>
+	<content contentuid="h04bda2aeg6a32g42cfg8673g2627646be178" version="1">Skald's Shortbow</content>
+	<content contentuid="h1f3a0a3fgb284g4e4ega09bg1d1283fd30fa" version="1">Warhorn: A Fury Divine</content>
+	<content contentuid="h7af843e0g759dg4a80gb8c9g9671465863b9" version="1">I will stand firm, I refuse to kneel. The fury in me is divine.&lt;br&gt;&lt;br&gt;Activates the Skald's Berserker Runes for five turns.</content>
+	<content contentuid="h985596dag09fcg45a7g8ea3gac65e9ec5af7" version="1">Warhorn: Gods of War Arise</content>
+	<content contentuid="hd41e485ag4963g41ecgb108g960c57e0a6c0" version="1">We gave them agony, as they fell and died.&lt;br&gt;&lt;br&gt;Inspire your allies to add a +[1] bonus to their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h204129b0g71e3g46fdg803dg0f88e72e57d9" version="1">Initiate Performances</content>
+	<content contentuid="h347f55f5gb9c9g430eg8708g4bd15c8afd50" version="1">Novice Performances</content>
+	<content contentuid="hc12c34bfgf13cg422dg88e4gb7f4c999eeaa" version="1">Advanced Performances</content>
+	<content contentuid="h0d3df1dag075cg4b7fgbc89g8043e36c70c7" version="1">Master Performances</content>
+	<content contentuid="hd2f488c6gfa3cg4b67gadaeg739251af346e" version="1">Song of Battle - Overture</content>
+	<content contentuid="hb2fa8eaegce45g4d5fga0f3g437b2e9e2b81" version="1">Adagio</content>
+	<content contentuid="h74cf8945g51dag4026gaacagc0b8c56d3270" version="1">Scherzo</content>
+	<content contentuid="hb89cdcf1gf81bg49f3gae90g882e0e9b1c74" version="1">Combo Break</content>
+	<content contentuid="h92dcc189gbc03g4bfbgae7eg9daacd59a90f" version="1">Resets a broken combo chain.</content>
+	<content contentuid="hc4b4e074g2700g4c57gbce4gfae9f88d4284" version="1">Song of Battle: Shield Wall (Overture)</content>
+	<content contentuid="h5df6c614g35abg43fagb531g82cc5fac47ec" version="1">Raise the shield wall, hold the front line.&lt;br&gt;&lt;br&gt;Take only half the damage from Bludgeoning, Piercing, and Slashing attacks.</content>
+	<content contentuid="hdbdc8c19gd5aeg479eg9ff4g169bd8c30485" version="1">Song of Battle: Hand of Doom (Overture)</content>
+	<content contentuid="hedd80320gce76g4618g9908ga4617b3c1f6b" version="1">Feel your body heave, deaths hand starts to weave.&lt;br&gt;&lt;br&gt;Enemies are &lt;LSTag Type="Status" Tooltip="SLOW"&gt;Slowed&lt;/LSTag&gt;. Movement and actions are affected, and their &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt; are reduced by 2.</content>
+	<content contentuid="h71c450d5g74b4g406bgb54dgfdd4c97f14bc" version="1">Song of Battle: War Ensemble (Overture)</content>
+	<content contentuid="hf35185a5gd669g41e4g9ddcg029ebab75d74" version="1">The sport is war, total war.&lt;br&gt;&lt;br&gt;You and your companions gain a bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h97ab9570g4ad7g4720gb373g5c54ba3e9114" version="1">Song of Battle: Gates of Delirium (Overture)</content>
+	<content contentuid="h93e3fbf3g86d0g4fdegb771g2b213bbd17b3" version="1">Listen, your friends have been broken.&lt;br&gt;&lt;br&gt;All enemies that can hear your song have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h63cbdc5fg4f8dg41d0gb850gc78d10024990" version="1">Song of Battle: Built For Speed (Overture)</content>
+	<content contentuid="h2b48c5e3g8062g44begbb8cg9ebf6c98f778" version="1">I was born with the hammer down. I was built for speed.&lt;br&gt;&lt;br&gt;You and your companions gain one extra action per turn for two turns. This song also grants you [1] to melee/unarmed damage +[2] to attack rolls for the full 10 turn song duration.</content>
+	<content contentuid="h640c60dcgda0fg44e1g8ecfg026081087f22" version="1">[1] to melee/unarmed damage and +[2] to attack rolls.</content>
+	<content contentuid="h88b7e7e7g2ad1g4c6eg9258g8ddd665f9488" version="1">Skald's War Chant</content>
+	<content contentuid="h685565d9g9e95g44f7g880fg926251b90135" version="1">Grants [1] to melee/unarmed damage +[2] to attack rolls for 10 turns.</content>
+	<content contentuid="h524fbcfbgcfe3g4812g92d9gaf712dfa5a6c" version="1">Song of Battle: Dazed and Confused</content>
+	<content contentuid="hf787c05bga180g44cfg98ffgd768fdc31610" version="1">Don't know where you're going, only know just where you've been.&lt;br&gt;&lt;br&gt;All enemies that can hear your song have are dazed and have disadvantage.</content>
+	<content contentuid="hc4b41815gd27bg44fdgaf66ga29c8622b5f8" version="1">Song of Battle: Darkness Within</content>
+	<content contentuid="h6a52da6dg96d5g4a17g9488gf56d5e946288" version="1">And now the shadowed veil it falls. Heed the clarion call.&lt;br&gt;&lt;br&gt;All enemies that can hear your song become blinded and have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved for as long as your song lasts.</content>
+	<content contentuid="hc714a422gebeag49b0g8fc6g34af97b8f56e" version="1">Song of Battle: Victorius March</content>
+	<content contentuid="h0e446cb6g2ec5g40a1g9cdeg1754352884f7" version="1">The horizon burns and the song is ringing loud.&lt;br&gt;&lt;br&gt;You and your compantions gain a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; as long as your song lasts.</content>
+	<content contentuid="h8195ed82g90a3g4e60g9be2g363db19ae104" version="1">Careful With That Axe - Adagio (Melee)</content>
+	<content contentuid="h0d02f445g7254g452fgaacbg9c8706140f26" version="1">The stars are screaming loud.&lt;br&gt;&lt;br&gt;Skillfully strike the target with your melee weapon and cause &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for 1 turn.</content>
+	<content contentuid="h406bb018gec0bg4f18g859cg5d8d397813bb" version="1">Flash of the Blade - Scherzo (Melee)</content>
+	<content contentuid="hf71ed0adg00ddg43fbg8756g880abb4109d6" version="1">You'll die as you lived, in a flash of the blade.&lt;br&gt;&lt;br&gt;Skillfully strike up to two targets with your melee weapon and cause &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fear&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="h669897a9g29b4g425eg9128ge5261b4be21b" version="1">Die By The Sword - Finale (Melee)</content>
+	<content contentuid="hb19ba20fgcd85g4819g8409g6d87f15e6a8f" version="1">We turn our heads toward the sky and listen for the steel.&lt;br&gt;&lt;br&gt;Skillfully strike the target with a melee finishing move, completing your performance.</content>
+	<content contentuid="h3969d1c0gd2a3g4907ga311ge12adbcba128" version="1">Ghosts of Perdition - Adagio (Ranged)</content>
+	<content contentuid="he6afb56cg0694g4cbfg9dc9g41a15c25a8f6" version="1">You have to live before you die young.&lt;br&gt;&lt;br&gt;Skillfully shoot the target with your ranged weapon and cause &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for 1 turn.</content>
+	<content contentuid="hd1b5aab7ge299g4c0ag9ca1g748da38ac0df" version="1">Run to the Hills - Scherzo (Ranged)</content>
+	<content contentuid="h134c932bgaa99g4288gb4c6g27f3ae52860e" version="1">Run For Your Life!&lt;br&gt;&lt;br&gt;Skillfully shoot up to two targets with your ranged weapon and cause &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fear&lt;/LSTag&gt; for 2 turns.</content>
+	<content contentuid="hd86cb881g27f4g4dffga9fag9ea8bf7740a5" version="1">Take No Prisoners - Finale (Ranged)</content>
+	<content contentuid="h2c933aefgb0e4g4ed9gaf72g475185c38f9a" version="1">Get it right, terminate them.&lt;br&gt;&lt;br&gt;Skillfully shoot the target with a ranged finishing move, completing your performance.</content>
+	<content contentuid="h482884bfgade0g41dcgb6c2gc1773a2e3a2c" version="1">Peace Sells - Adagio (Spell)</content>
+	<content contentuid="h69714d65g70ebg41fbga8bagce460ebd4f79" version="1">Can you put a price on peace?&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;Hypnotise&lt;/LSTag&gt; a creature. It cannot attack you. It cannot move or act.</content>
+	<content contentuid="hb58ca5a2g3d93g41a1gbe0fg8f6d634a0ca0" version="1">Dancing With The Moonlit Knight - Scherzo (Spell)</content>
+	<content contentuid="h1dc44046gdb85g4dfdg90f1g2069b79ed8e0" version="1">Knights of the Green Shield stamp and shout!&lt;br&gt;&lt;br&gt;Your target is compelled to shuffle and dance. Affected entity can't move or take actions. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while its Attack Rolls and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h1fcb2f62gdcfag48afgaafeg5bbe44a021d6" version="1">November's Fire - Finale (Spell)</content>
+	<content contentuid="h1b1803dbge5cag4133g8ddag23533eb02e91" version="1">All things must come to ash.&lt;br&gt;&lt;br&gt;Call down a bright fireball that explodes upon contact, torching everything in the vicinity.</content>
+	<content contentuid="h6466192dg1789g47bag970cg381322765a52" version="1">Again We Rise - Finale (Spell)</content>
+	<content contentuid="ha2a17ff5gfefbg43bag865ega5159092975a" version="1">Go back to the source. I raise my head.&lt;br&gt;&lt;br&gt;Heals a friendly target for 33% of their max HP and will also resurrect your target if necessary.</content>
+	<content contentuid="h944eb7a7gf558g4c58gb620g252776b6a2b1" version="1">Live for the Kill - Finale (Spell)</content>
+	<content contentuid="h52aa92a9gec48g4bd0gae41gff7c474c3a8b" version="1">A natural force it knows no remorse and lives for the kill.&lt;br&gt;&lt;br&gt;Heal your nearby allies for 25% of their max HP.</content>
+	<content contentuid="h0dfda915gcaf0g4b07g907dg9c673bfec3fd" version="1">Special 3 - Special Grand Finale (Spell)</content>
+	<content contentuid="h95633cbag2856g4af8g8e53gec76be72ca3e" version="1">Your performance was extra special. This grand finale will be amazing!</content>
+</contentList>

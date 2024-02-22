@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h780f2487g4495g4e22gb77bgfd6db660b752" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h287ae0bfgdb47g4de5gb373g99c0310db39b" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="MapKey" type="FixedString" value="572575c9-1328-423c-befa-f6e12aac3402" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="afb411f1-70df-a543-d0e4-95581fd68704" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="PickupSound" type="FixedString" value="f4a8e400-c202-1d9c-1260-00314d8e9170" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="fbd0b309-df4a-05c2-0b23-66e45f22a5e8" />
+					<attribute id="DropSound" type="FixedString" value="fbd0b309-df4a-05c2-0b23-66e45f22a5e8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="76944b2f-1e79-4c22-8d9a-e6c30e5194e0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="SkaldDrum" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="51d0b615-ea56-43db-d880-6b512c2c86cc" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.1679839" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="233a89ec-140a-4f77-a13d-72020f53e6d0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h780f2487g4495g4e22gb77bgfd6db660b752" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h287ae0bfgdb47g4de5gb373g99c0310db39b" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="MapKey" type="FixedString" value="f7c2d8cf-5dfc-4baa-ae39-a4180d2bd058" />
+					<attribute id="Name" type="LSString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="afb411f1-70df-a543-d0e4-95581fd68704" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="PickupSound" type="FixedString" value="f4a8e400-c202-1d9c-1260-00314d8e9170" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="fbd0b309-df4a-05c2-0b23-66e45f22a5e8" />
+					<attribute id="DropSound" type="FixedString" value="fbd0b309-df4a-05c2-0b23-66e45f22a5e8" />
+					<attribute id="ParentTemplateId" type="FixedString" value="76944b2f-1e79-4c22-8d9a-e6c30e5194e0" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="SkaldDrum_Legendary" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="51d0b615-ea56-43db-d880-6b512c2c86cc" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.1679839" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.1889464" />
+									<attribute id="Max" type="fvec3" value="0.1050558 0.1028006 0.3716013" />
+									<attribute id="Min" type="fvec3" value="-0.1110856 -0.005424917 -0.3829093" />
+									<attribute id="Radius" type="float" value="0.3359679" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="233a89ec-140a-4f77-a13d-72020f53e6d0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h276bb9aeg1798g47ceg87c6gfde82c78aa0f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf063f840g829fg46b9g8ec7gd6194c894ccc" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aa7bae1d-15e2-4307-a864-bc158b81650a" />
+					<attribute id="Name" type="LSString" value="UNI_WYR_Circus_HandaxeReturning" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7a05135d-b285-4186-8a32-a870f1684b60" />
+					<attribute id="Stats" type="FixedString" value="SkaldAxe1h" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209029" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.02378582 0.05264343 0.1340957" />
+									<attribute id="Min" type="fvec3" value="-0.1052242 -0.003478471 -0.3133481" />
+									<attribute id="Radius" type="float" value="0.0911205" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.04757164 0.05264343 0.2681914" />
+									<attribute id="Min" type="fvec3" value="-0.2104485 -0.003478471 -0.6266963" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.04757164 0.05264343 0.2681914" />
+									<attribute id="Min" type="fvec3" value="-0.2104485 -0.003478471 -0.6266963" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h0cecb1efga72eg4e2egbf17g4002df0d1d4a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9c3bd775g1cdbg4914g9772g0e8dd8eab392" version="1" />
+					<attribute id="EquipmentTypeID" type="guid" value="896f8a20-7dda-4bff-b726-08c3dacccc7b" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_1" />
+					<attribute id="IsInspector" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LevelOverride" type="int32" value="-1" />
+					<attribute id="MapKey" type="FixedString" value="5dd318ed-c32f-41a7-85b9-e67fd9323559" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Battleaxe_A_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a086b825-8f17-4f0e-855b-178f8cdc515a" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c4f2fed9-ca4c-4ab0-8d77-2c9c1773d2ba" />
+					<attribute id="Race" type="int8" value="0" />
+					<attribute id="ReadinessFlags" type="uint32" value="144" />
+					<attribute id="Stats" type="FixedString" value="SkaldAxeVersa" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="4115f937-0466-0f4e-b3c8-a8e0d8738347" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="26" />
+									<children>
+										<node id="Attributes">
+											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="PlayOnHUD" type="bool" value="False" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd5110cc6g5a80g4a2eg91aeg8e74cc242276" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha92dacfegbbaeg4e7dg9e67gca01a5f83b8e" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e6426c59-ea6b-4609-9604-06a692e28777" />
+					<attribute id="Name" type="LSString" value="UNI_WPN_HeavyGreataxe" />
+					<attribute id="ParentTemplateId" type="FixedString" value="17925d9f-e319-4b6d-8e25-90cb802d932c" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="SkaldAxe2h" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="6baa8afb-3598-fd32-380c-fb79f429286b" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd5110cc6g5a80g4a2eg91aeg8e74cc242276" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h76ce2036g7cd6g4cb8g8de6g43f4900f4b2c" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b972c003-56bf-4756-b97f-38e921ec591c" />
+					<attribute id="Name" type="LSString" value="CINE_WPN_HUM_Longbow_A_0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="Stats" type="FixedString" value="Skald_Longbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790672" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd5110cc6g5a80g4a2eg91aeg8e74cc242276" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h04bda2aeg6a32g42cfg8673g2627646be178" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="765ec698-9ebe-4519-a2c0-7e57d0847c81" />
+					<attribute id="Name" type="LSString" value="CINE_WPN_HUM_Shortbow_A_0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c5403c1d-f372-43e1-927a-9189e9e3545d" />
+					<attribute id="Stats" type="FixedString" value="Skald_Shortbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115196665790677" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
